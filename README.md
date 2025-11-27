@@ -1,4 +1,4 @@
-📊 Financial Analysis Dashboard — Power BI
+**📊 Financial Analysis Dashboard — Power BI**
 
 📝 **Overview**
 
@@ -6,20 +6,24 @@ This project presents an interactive Financial Analysis Dashboard built in Power
 
 🎯 **Project Objective**
 
-**The objective of this project is to consolidate raw financial data into a dynamic reporting tool that:**
+The objective of this project is to consolidate raw financial data into a dynamic reporting tool that:
 
-•	Evaluates company-wide sales and margin performance
-•	Highlights top and bottom-performing product categories
-•	Tracks YoY trends across states, departments, and store types
-•	Supports data-driven decision-making with interactive visuals
-•	Simplifies reporting and reduces manual data analysis time
+•	Evaluates company-wide sales and margin performance.
 
-🧩 Problem Statement
+•	Highlights top and bottom-performing product categories.
+
+•	Tracks YoY trends across states, departments, and store types.
+
+•	Supports data-driven decision-making with interactive visuals.
+
+•	Simplifies reporting and reduces manual data analysis time.
+
+**🧩 Problem Statement**
 
 The company lacked a centralised and automated way to analyse financial performance. Reporting was manual, fragmented, and limited, making it difficult for stakeholders to identify trends, compare results, or understand the key drivers behind performance changes. A unified dashboard was needed to bring clarity, speed, and insight to the decision-making process.
 
 
-❓** Research Questions**
+**❓Research Questions**
 
 This dashboard was developed to answer critical business questions, including:
 
