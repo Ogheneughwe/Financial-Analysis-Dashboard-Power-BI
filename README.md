@@ -1,9 +1,5 @@
 **📊 Financial Analysis Dashboard — Power BI**
 
-"https://github.com/user-attachments/assets/0f52b7a1-efec-434e-8b1e-eb855dc86f06" 
-
-
-
 📝 **Overview**
 
 This project presents an interactive Financial Analysis Dashboard built in Power BI to analyse sales performance, gross margins, departmental trends, and YoY growth across multiple years. The dashboard enables stakeholders to quickly understand their financial health and uncover valuable insights for strategic planning.
