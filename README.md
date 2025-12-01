@@ -1,6 +1,6 @@
 **📊 Financial Analysis Dashboard — Power BI**
 
-<img width="16" height="16" alt="financial-analysis" src="https://github.com/user-attachments/assets/7795453c-cc84-467b-9204-4545071e4fa2" />
+https://th.bing.com/th/id/OIP.LCJXw67A8Q4kCEbKXAK9IwHaEK?w=300&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3
 
 📝 **Overview**
 
