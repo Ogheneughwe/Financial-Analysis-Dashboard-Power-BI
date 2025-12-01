@@ -1,6 +1,8 @@
 **📊 Financial Analysis Dashboard — Power BI**
 
-https://th.bing.com/th/id/OIP.LCJXw67A8Q4kCEbKXAK9IwHaEK?w=300&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3
+"https://github.com/user-attachments/assets/0f52b7a1-efec-434e-8b1e-eb855dc86f06" 
+
+
 
 📝 **Overview**
 
